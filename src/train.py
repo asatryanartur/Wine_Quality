@@ -144,3 +144,5 @@ def train(X_data, y_data):
 
 
 train(config.PROCESSED_X_H1, config.LABEL_DATA)
+# train(config.PROCESSED_X_H2, config.LABEL_DATA)
+# train(config.PROCESSED_X_H3, config.LABEL_DATA)
